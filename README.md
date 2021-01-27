@@ -9,9 +9,23 @@ This little game started as a final assignment to my second-year OOP course, but
 * Microsoft .NET Framework Version 4.8.04.084
 
 #Setup
-* Download project
-* 
+Coming Soon
 
 ## Gameplay
+The player must traverse the maze and reach the door without being stopped by the monsters.
 
-## Planned Changes
+
+Watch out! The monsters have two ways to win - they can catch the player, or make it to the door first.
+The monsters can also teleport!
+
+When the player moves in one direction, the monsters move in the opposite direction - so watch the whole maze, or you'll walk a monster straight to the door!
+
+
+
+## Planned Changes / Bug Fixes
+* Fix maze sizing issue
+* Improved monster movement and distribution - fix overlapping monster issue 
+* Higher-quality sprites
+* Randomized mazes
+* New kinds of monsters with different motion patterns
+* Animation / sounds for win / lose scenarios
