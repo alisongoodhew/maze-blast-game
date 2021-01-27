@@ -8,12 +8,13 @@ This little game started as a final assignment to my second-year OOP course, but
 * Microsoft Visual Studio Community 2019 Version 16.7.3
 * Microsoft .NET Framework Version 4.8.04.084
 
-#Setup
+## Setup
 Coming Soon
 
 ## Gameplay
 The player must traverse the maze and reach the door without being stopped by the monsters.
 
+![screenshot of maze](/MazeBlast2.png)
 
 Watch out! The monsters have two ways to win - they can catch the player, or make it to the door first.
 The monsters can also teleport!
