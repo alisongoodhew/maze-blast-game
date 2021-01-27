@@ -14,7 +14,7 @@ Coming Soon
 ## Gameplay
 The player must traverse the maze and reach the door without being stopped by the monsters.
 
-![screenshot of maze](/MazeBlast2.png)
+![screenshot of maze](alisongoodhew.github.com/maze-blast-game/MazeBlast2.png)
 
 Watch out! The monsters have two ways to win - they can catch the player, or make it to the door first.
 The monsters can also teleport!
