@@ -19,8 +19,11 @@ The player must traverse the maze and reach the door without being stopped by th
 Watch out! The monsters have two ways to win - they can catch the player, or make it to the door first.
 The monsters can also teleport!
 
+![screenshot of maze](/Images/MazeBlast3.PNG)
+
 When the player moves in one direction, the monsters move in the opposite direction - so watch the whole maze, or you'll walk a monster straight to the door!
 
+![screenshot of maze](/Images/MazeBlast7.PNG)
 
 
 ## Planned Changes / Bug Fixes
