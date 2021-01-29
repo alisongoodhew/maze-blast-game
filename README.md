@@ -7,6 +7,7 @@ This little game started as a final assignment to my second-year OOP course, but
 ## Technologies
 * Microsoft Visual Studio Community 2019 Version 16.7.3
 * Microsoft .NET Framework Version 4.8.04.084
+* MedallionRandom v1.1.0 via NuGet
 
 ## Setup
 Coming Soon
