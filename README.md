@@ -10,7 +10,7 @@ This little game started as a final assignment to my second-year OOP course, but
 * MedallionRandom v1.1.0 via NuGet
 
 ## Setup
-Coming Soon
+NOTE: There appears to be an issue with the Medallion package that is preventing program function - this might not occur for all users.
 
 ## Gameplay
 The player must traverse the maze and reach the door without being stopped by the monsters.
